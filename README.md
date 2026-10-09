@@ -242,19 +242,6 @@ MPP/
 | Linear head | 74.58±5.06 | 43.98±2.52 | 59.28±1.28 |
 | Proto probe (Ours) | 82.46±2.36 | 42.11±2.61 | 62.28±0.12 |
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@article{li2025mpp,
-  title={MPP: A Multi-Scale Pattern Probe for Efficient Respiratory Sound Measurement},
-  author={Li, Jiahao and Zhang, Shu},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  year={2025}
-}
-```
-
 ## Acknowledgments
 
 The authors would like to thank the providers of the ICBHI 2017 and SPRSound datasets for making the data publicly available. We also thank the authors of PatchMix for releasing their codebase, which facilitated part of our experiments.
