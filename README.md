@@ -246,13 +246,5 @@ MPP/
 
 The authors would like to thank the providers of the ICBHI 2017 and SPRSound datasets for making the data publicly available. We also thank the authors of PatchMix for releasing their codebase, which facilitated part of our experiments.
 
-## License
 
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Contact
-
-For questions or issues, please open an issue on GitHub or contact:
-- Jiahao Li: 241020070@fzu.edu.cn
-- Shu Zhang: zhangshu@fzu.edu.cn
 ```
